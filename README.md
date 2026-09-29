@@ -39,7 +39,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=meow-xth&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meow-xth&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
