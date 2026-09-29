@@ -50,22 +50,6 @@
 
 <div align="center">
 
-<h2>📊 GitHub Stats</h2>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=meow-xth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meow-xth&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=meow-xth&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
-
----
-
-<div align="center">
-
 <h2>🐍 Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/meow-xth/meow-xth/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
