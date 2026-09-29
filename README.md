@@ -61,25 +61,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<h2>📈 Contribution Graph</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meow-xth&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<h2>🏆 Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=meow-xth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="trophies" />
-
-</div>
 
 ---
 
