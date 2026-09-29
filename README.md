@@ -37,12 +37,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meow-xth&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/meow-xth/meow-xth/output/github-contribution-grid-snake-dark.svg)
